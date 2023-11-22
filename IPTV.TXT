@@ -241,7 +241,6 @@ TVBS星河,http://r.jdshipin.com/sXuuD
 浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
 湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
 江苏卫视,http://125.210.152.19:9120/live/hzgq-jswsgq-h264.m3u8
-北京卫视,http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8
 东方卫视,http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8
 广东卫视,http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8
 河南卫视,http://125.210.152.19:9120/live/hzgq-henanwsgq-h264.m3u8
@@ -257,7 +256,6 @@ TVBS星河,http://r.jdshipin.com/sXuuD
 吉林卫视,http://125.210.152.19:9120/live/hzgq-jlwsgq-h264.m3u8
 黑龙江卫视,http://125.210.152.19:9120/live/hzgq-hljwsgq-h264.m3u8
 辽宁卫视,http://125.210.152.19:9120/live/hzgq-lnwsgq-h264.m3u8
-北京卫视,http://222.71.90.218:8888/newlive/live/hls/18/live.m3u8
 东方卫视,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8
 浙江卫视,http://222.71.90.218:8888/newlive/live/hls/20/live.m3u8
 江苏卫视,http://222.71.90.218:8888/newlive/live/hls/21/live.m3u8
@@ -281,7 +279,6 @@ TVBS星河,http://r.jdshipin.com/sXuuD
 陕西卫视,http://222.71.90.218:8888/newlive/live/hls/45/live.m3u8
 内蒙古卫视,http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8
 新疆卫视,http://222.71.90.218:8888/newlive/live/hls/47/live.m3u8
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
@@ -310,7 +307,6 @@ TVBS星河,http://r.jdshipin.com/sXuuD
 延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
 南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
@@ -319,7 +315,6 @@ TVBS星河,http://r.jdshipin.com/sXuuD
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 江苏卫视,http://wabc.ml/sxg.php?id=jswsH265_4000
-北京卫视,http://wabc.ml/sxg.php?id=bjwsH265_4000
 东方卫视,http://wabc.ml/sxg.php?id=dfwsH265_4000
 湖南卫视,http://wabc.ml/sxg.php?id=hnwsH265_4000
 浙江卫视,http://wabc.ml/sxg.php?id=zjwsH265_4000
@@ -386,17 +381,6 @@ TVBS星河,http://r.jdshipin.com/sXuuD
 深圳卫视,http://api3.52tb.xyz/info?id=28&token=20230227aesvnb
 深圳卫视,http://111.59.63.32:9901/tsfile/live/1033_1.m3u8
 深圳卫视,http://125.210.152.19:9120/live/hzgq-szwsgq-h264.m3u8
-北京卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
-北京卫视,http://39.134.136.151:6610/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=00
-北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-北京卫视,http://222.188.112.68:10000/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-北京卫视,http://221.213.43.82:8888/newlive/live/hls/19/live.m3u8
-北京卫视,http://111.59.63.32:9901/tsfile/live/1030_1.m3u8
-北京卫视,http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8
-北京纪实,http://125.210.152.19:9120/live/hszx-bjjs-h264.m3u8
 天津卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240136_1/encoder/0/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
 天津卫视,http://39.134.136.151:6610/000000001000/1000000001000000831/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=00
 天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
@@ -569,7 +553,6 @@ TVBS星河,http://r.jdshipin.com/sXuuD
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
-北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 山西卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
 海南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
 黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8?
@@ -581,7 +564,6 @@ TVBS星河,http://r.jdshipin.com/sXuuD
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
 天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
 辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
