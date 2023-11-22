@@ -210,10 +210,6 @@ CCTV4美洲,http://120.234.220.107:9000/udp/239.21.0.108:3772
 北京卫视,https://pi.0472.org/live?auth=202308110958&id=bjws
 北京卫视,http://php.17186.eu.org/ysp/bjws.m3u8
 北京卫视,http://jh.d7g.cn/tv/zx2023.php?id=351
-北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw79763105_122181519/ott.mobaibox.com/PLTV/88888890/224/3221225574/index.m3u8?icpid=88888890&RTS=1687952291&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-北京卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 北京卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221225546/iptv51912.smil
 北京卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225546/iptv51912.smil
 北京卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225546/iptv51912.smil
@@ -223,49 +219,22 @@ CCTV4美洲,http://120.234.220.107:9000/udp/239.21.0.108:3772
 北京卫视,http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
 
 北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1700637335&sign=baa52168ad96281266122d90dcdf3a6d
-北京文艺,http://jh.d7g.cn/tv/zx2023.php?id=352
-北京文艺,http://jh.d7g.cn/tv/zx2023.php?id=400
 
 北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1700637460&sign=cab83c4224b4c993e83122a10572ac69
-北京纪实科教,https://pi.0472.org/live?auth=202308110958&id=bjjskj
-北京纪实科教,http://jh.d7g.cn/tv/zx2023.php?id=401
 
 北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1700637283&sign=e64d3db97e456d23ecd1186015ef9b7a
-北京影视,http://jh.d7g.cn/tv/zx2023.php?id=353
-北京影视,http://jh.d7g.cn/tv/zx2023.php?id=402
 
 北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1700637609&sign=3a773f3ddbe10905e85c88659a44916b
-北京财经,http://jh.d7g.cn/tv/zx2023.php?id=403
 
 北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1700637380&sign=740ed15c49cd65d2c96692136ec03a20
-北京生活,http://jh.d7g.cn/tv/zx2023.php?id=405
 
 北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1700636391&sign=7cd05dfd98db0c98605db24b7171fafe
-北京新闻,http://jh.d7g.cn/tv/zx2023.php?id=354
-北京新闻,http://jh.d7g.cn/tv/zx2023.php?id=406
 
 北京Kaku少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1700637519&sign=0febaebc2c3ff78125b353e3c6317ab7
-北京Kaku少儿,http://jh.d7g.cn/tv/zx2023.php?id=407
 
 
-北京新闻,http://115.171.57.64:4000/udp/225.1.8.83:8000
-北京新闻,http://115.171.57.64:4000/udp/225.1.8.129:8002
-北京新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
-北京新闻,http://router.tonyliangli.cn:4022/udp/239.3.1.159:8000
-北京新闻,http://222.128.98.255:4000/rtp/239.3.1.159:8000
-北京新闻,http://live.cooltv.top/tv/btime.php?id=btvxw
-北京新闻,https://epg.pm/stream/865123cac907c93d2186e8568d28fb63942da98b296414683dae94946f56c93a.m3u8
 
-北京纪实,https://cntv.lat/tv/zb.php?auth=231122&id=bjjskj
-北京纪实,http://125.210.152.19:9120/live/hszx-bjjs-h264.m3u8
 
-北京冬奥纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
-北京冬奥纪实,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-北京冬奥纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225675/index.m3u8
-北京冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
-北京冬奥纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
-北京冬奥纪实,http://117.148.179.162/PLTV/88888888/224/3221233356/index.m3u8
-北京冬奥纪实,http://117.148.179.162/PLTV/88888888/224/3221233433/index.m3u8
 
 香港,#genre#
 凤凰中文,http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=fhzw_1500
