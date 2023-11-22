@@ -187,6 +187,7 @@ CCTV4欧洲,http://120.234.220.107:9000/udp/239.21.0.107:3768
 CCTV4美洲,http://120.234.220.107:9000/udp/239.21.0.108:3772
 
 北京,#genre#
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1700636348&sign=b727b161e1bea9a348fe67bb9dec8ed3
 北京卫视,https://cntv.lat/tv/zb.php?auth=231122&id=bjws
 北京卫视,http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8
 北京卫视,http://222.71.90.218:8888/newlive/live/hls/18/live.m3u8
@@ -221,26 +222,31 @@ CCTV4美洲,http://120.234.220.107:9000/udp/239.21.0.108:3772
 北京卫视,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
 北京卫视,http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
 
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1700637335&sign=baa52168ad96281266122d90dcdf3a6d
 北京文艺,http://jh.d7g.cn/tv/zx2023.php?id=352
 北京文艺,http://jh.d7g.cn/tv/zx2023.php?id=400
 
-北京纪实,https://pi.0472.org/live?auth=202308110958&id=bjjskj
-北京纪实,http://jh.d7g.cn/tv/zx2023.php?id=401
+北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1700637460&sign=cab83c4224b4c993e83122a10572ac69
+北京纪实科教,https://pi.0472.org/live?auth=202308110958&id=bjjskj
+北京纪实科教,http://jh.d7g.cn/tv/zx2023.php?id=401
 
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1700637283&sign=e64d3db97e456d23ecd1186015ef9b7a
 北京影视,http://jh.d7g.cn/tv/zx2023.php?id=353
 北京影视,http://jh.d7g.cn/tv/zx2023.php?id=402
 
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1700637609&sign=3a773f3ddbe10905e85c88659a44916b
 北京财经,http://jh.d7g.cn/tv/zx2023.php?id=403
 
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1700637380&sign=740ed15c49cd65d2c96692136ec03a20
 北京生活,http://jh.d7g.cn/tv/zx2023.php?id=405
 
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1700636391&sign=7cd05dfd98db0c98605db24b7171fafe
 北京新闻,http://jh.d7g.cn/tv/zx2023.php?id=354
 北京新闻,http://jh.d7g.cn/tv/zx2023.php?id=406
 
+北京Kaku少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1700637519&sign=0febaebc2c3ff78125b353e3c6317ab7
 北京Kaku少儿,http://jh.d7g.cn/tv/zx2023.php?id=407
 
-北京体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=355
-北京体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=408
 
 北京新闻,http://115.171.57.64:4000/udp/225.1.8.83:8000
 北京新闻,http://115.171.57.64:4000/udp/225.1.8.129:8002
