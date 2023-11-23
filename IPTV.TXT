@@ -27,6 +27,7 @@ CGTN阿语,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw15876
 北京,#genre#
 北京卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1588200355_-2136083744/ws_w/bjws/bjws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=265668911&timezone=UTC&mtv_session=923b33c07808007ff4b7b8554ab56cb9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3b910e2f08747b18ff03b13155e96cb
 北京卫视,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
+北京体育休闲,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/index.m3u8
 北京新闻,https://live.funhillrm.com/5/sd/live.m3u8
 北京新闻,http://61.170.88.57/downflv.brtvcloud.com/waezcdr/bncdte7.flv
 北京生活,http://43.141.130.51/downflv.brtvcloud.com/ygdduy/jmnetfg.flv
