@@ -185,7 +185,6 @@ CCTV4欧洲,http://120.234.220.107:9000/udp/239.21.0.107:3768
 CCTV4美洲,http://120.234.220.107:9000/udp/239.21.0.108:3772
 
 北京,#genre#
-北京卫视,http://angtv.cc/test/lngd.php?id=083
 北京卫视,http://jltpc.x3322.net:9901/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 北京卫视,http://58.220.219.14:9901/tsfile/live/0122_1.m3u8?key=txiptv
