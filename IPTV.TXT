@@ -185,11 +185,6 @@ CCTV4欧洲,http://120.234.220.107:9000/udp/239.21.0.107:3768
 CCTV4美洲,http://120.234.220.107:9000/udp/239.21.0.108:3772
 
 北京,#genre#
-北京卫视,http://jltpc.x3322.net:9901/tsfile/live/0122_1.m3u8?key=txiptv
-北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
-北京卫视,http://58.220.219.14:9901/tsfile/live/0122_1.m3u8?key=txiptv
-北京卫视,http://mqiptv.com:8014/ch/bjws/mqlive.m3u8
-北京卫视,http://180.97.247.27/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
 北京卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1588200355_-2136083744/ws_w/bjws/bjws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=265668911&timezone=UTC&mtv_session=923b33c07808007ff4b7b8554ab56cb9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3b910e2f08747b18ff03b13155e96cb&咪咕
 北京卫视,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel24/index.m3u8
 北京卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
