@@ -36,6 +36,7 @@ CGTN阿语,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw15876
 北京房山,https://live.funhillrm.com/2/sd/live.m3u8
 
 港澳台,#genre#
+凤凰资讯,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰资讯,http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
@@ -58,6 +59,7 @@ CGTN阿语,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw15876
 凤凰资讯,http://113.117.74.32:8081/hls/36/index.m3u8
 凤凰资讯,http://120.8.135.86:10010/hls/100/index.m3u8
 
+凤凰中文,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 凤凰中文,http://gxdl-lhs.8866.org:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://113.117.74.26:8081/hls/37/index.m3u8
